@@ -1,0 +1,1 @@
+Debo crear el programa para sumar los valores de las variables y multiplicarlos por los dias de cada dia total trabajado
